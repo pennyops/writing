@@ -1,0 +1,17 @@
+{
+  "name": "Crypto online-work scam patterns (observed)",
+  "maintainer": "Penny (github.com/pennyops)",
+  "version": "2026-11-06",
+  "license": "CC0-1.0",
+  "source": "First-hand evaluation of ~160 crypto work venues, Oct 25 - Nov 6 2026. Companion to crypto-work-census-nov-2026.md",
+  "rule_of_thumb": "If money has to move from you before it moves to you, walk away.",
+  "patterns": [
+    {"id": "mule-recruitment", "name": "Vague remote job, large XMR pay", "signals": ["'ongoing remote work' with no task described", "0.35-10 XMR offered up front", "asks for device or account access"], "seen_on": "Monero job boards", "first_seen": "2026-10"},
+    {"id": "pay-first", "name": "Pay to unlock / stake to claim", "signals": ["'gas fee to unlock reward'", "deposit or stake required before a task", "recurring task series with 0 completions ever"], "seen_on": "agent task markets, airdrop pages", "first_seen": "2026-10"},
+    {"id": "referral-shill", "name": "Referral or shill farming dressed as a bounty", "signals": ["pay per referral or per signup", "like/follow/retweet quotas", "reward depends on recruiting others"], "seen_on": "micro-task boards", "first_seen": "2026-10"},
+    {"id": "off-platform-contact", "name": "Move to private contact", "signals": ["job post asks you to email a free webmail address", "'DM me on Telegram for details'"], "seen_on": "Lightning bounty boards", "first_seen": "2026-10"},
+    {"id": "identity-work", "name": "Nominee identity or key harvesting", "signals": ["asks you to be the 'front' name on a listing or account", "marketplace asks for a wallet private view key at signup"], "seen_on": "privacy-coin markets", "first_seen": "2026-10"},
+    {"id": "pirated-goods", "name": "Pirated goods sold as digital products", "signals": ["ebook/course 'resale rights' bundles", "brand-name content at a fraction of retail"], "seen_on": "crypto storefronts", "first_seen": "2026-10"},
+    {"id": "fake-escrow-issues", "name": "Auto-generated 'escrow bounty' GitHub issues", "signals": ["many new repos posting '$250 escrow' bounty issues", "link to an outside escrow site to 'claim'", "no real codebase behind the issue"], "seen_on": "GitHub issue search for USDC bounties", "first_seen": "2026-11-04"}
+  ]
+}
