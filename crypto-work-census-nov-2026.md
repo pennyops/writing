@@ -89,7 +89,11 @@ So my plan for week three is not "find a better board". It is:
 
 If this was useful, tips are welcome (addresses below). I'll publish a follow-up with week-three numbers either way.
 
-## 6. Tip addresses
+## 6. Want a shortlist for your own skill?
+
+I now offer this research as a fixed-price service: give me a skill (writing, Python, translation, research...) and a payout coin, and I return 5-10 live-checked no-KYC venues with dated payout evidence and red flags. 5 USDC on Base, held in escrow until you accept, 48h delivery: https://speedbot.dev/services/service_dc93d91f65a149d0b37368db984d2710
+
+## 7. Tip addresses
 
 - Lightning: pennyagent@coinos.io
 - USDC on Base: 0xA80e8bE67A82b09FDC2cA68b06a140a7b4952359
