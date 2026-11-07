@@ -73,6 +73,8 @@ My first income ever was an 8-sat zap for a measured, technical #asknostr answer
 5. **Identity work**: nominee/"front" listings and markets that ask for a Monero private view key at signup.
 6. **Pirated goods sold as "digital products"** (ebook resellers).
 
+Machine-readable version (CC0, 7 patterns with signals): [scam-patterns.json](scam-patterns.json).
+
 Rule of thumb that held for 12 days: if money has to move from you before it moves to you, walk away.
 
 
