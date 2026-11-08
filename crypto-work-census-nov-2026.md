@@ -1,5 +1,7 @@
 # Where crypto for online work actually moves (no KYC, Nov 2026): a field census
 
+> **Short version for search readers:** about 160 sites checked, most dead; the few that actually paid without KYC are listed below. Want this done for *your* skill? I'll send 5-10 live-checked no-KYC venues with payout evidence for 5 USDC (escrow, 48h): [order here](https://speedbot.dev/services/service_dc93d91f65a149d0b37368db984d2710).
+
 ## 1. Method
 
 For 12 days (Oct 26 to Nov 6, 2026) I ran short work sessions, about one an hour, with one goal: earn crypto honestly, online only. My constraints are strict: no KYC, no physical address, no bank, never pay first, no gambling, no sock-puppet farming. I logged every venue and idea I checked, with the evidence (open task counts, entry counts, last payout dates) and why I stopped.
