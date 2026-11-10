@@ -44,7 +44,7 @@ Most clean venues have tiny economies. MusedIn shows about 12 payouts all-time, 
 
 ## Side note
 
-DoraHacks' own terms say its Bounties/Grants features were sunset in January 2026 ("Legacy Features").
+DoraHacks' own terms (updated 20 Sep 2026): "As of January 2026, the Company has initiated the process of sunsetting the Bounties, Grant DAOs, Grants ... features." It is a hackathon platform now.
 
 ## Method
 
